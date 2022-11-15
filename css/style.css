@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Palanquin&family=Roboto&family=Staatliches&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -59,8 +61,8 @@ main {
 p {
   font-family: var(--ff-texting);
   font-weight: 400;
-  font-size: 2rem;
-  line-height: 1.5rem;
+  font-size: 2.4rem;
+  line-height: 2rem;
   text-align: center;
   color: #23053a;
 
@@ -169,6 +171,7 @@ main .card:nth-child(1) {
 
   .containerHeader p {
     color: #ffffff;
+    font-family: "Roboto", sans-serif;
   }
   .card h2 {
     visibility: hidden;
